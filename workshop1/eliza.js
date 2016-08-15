@@ -29,16 +29,16 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Yack attack."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Will Hunt?",
+    "Yes Pleasy?",
+    "Don't you dare touch me",
+    "Haha ha?",
+    "Can I PLEASE go outside?",
+    "Kelp?",
+    "Help I'm a person trapped inside of a computer?",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
